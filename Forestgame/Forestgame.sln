@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Forestgame", "Forestgame.pyproj", "{1AB3E44F-00CA-4AB6-AE96-68561B51BDB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AB3E44F-00CA-4AB6-AE96-68561B51BDB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AB3E44F-00CA-4AB6-AE96-68561B51BDB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85B81AD8-5A77-4F39-A7F4-F0BF08FB3E46}
+	EndGlobalSection
+EndGlobal
